@@ -22,7 +22,8 @@ https://datntse.github.io/Booking-Ticket-Show-Rap/ .
 ## Screenshots
 
 ![Booking feature](https://github.com/datntse/Booking-Ticket-Show-Rap/blob/main/assest/img/booking.png)
-![Booking feature mobile](https://github.com/datntse/Booking-Ticket-Show-Rap/blob/main/assest/img/bookingmoblile.png)
+![Booking form](https://github.com/datntse/Booking-Ticket-Show-Rap/blob/main/assest/img/bookingform.png)
+![Booking feature mobile](https://github.com/datntse/Booking-Ticket-Show-Rap/blob/main/assest/img/bookingmobile.png)
 
 
 
